@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/React-Dummy-Movies/static/css/main.43da2b71.chunk.css",
-    "main.js": "/React-Dummy-Movies/static/js/main.99249cfe.chunk.js",
-    "main.js.map": "/React-Dummy-Movies/static/js/main.99249cfe.chunk.js.map",
+    "main.js": "/React-Dummy-Movies/static/js/main.229d2a75.chunk.js",
+    "main.js.map": "/React-Dummy-Movies/static/js/main.229d2a75.chunk.js.map",
     "runtime-main.js": "/React-Dummy-Movies/static/js/runtime-main.d21af798.js",
     "runtime-main.js.map": "/React-Dummy-Movies/static/js/runtime-main.d21af798.js.map",
-    "static/js/2.8530df89.chunk.js": "/React-Dummy-Movies/static/js/2.8530df89.chunk.js",
-    "static/js/2.8530df89.chunk.js.map": "/React-Dummy-Movies/static/js/2.8530df89.chunk.js.map",
+    "static/js/2.7fce011b.chunk.js": "/React-Dummy-Movies/static/js/2.7fce011b.chunk.js",
+    "static/js/2.7fce011b.chunk.js.map": "/React-Dummy-Movies/static/js/2.7fce011b.chunk.js.map",
     "index.html": "/React-Dummy-Movies/index.html",
-    "precache-manifest.db6a55a1948a899474df21405c977ff1.js": "/React-Dummy-Movies/precache-manifest.db6a55a1948a899474df21405c977ff1.js",
+    "precache-manifest.7ccabfaf7e9db069af0ec0e82e4a5515.js": "/React-Dummy-Movies/precache-manifest.7ccabfaf7e9db069af0ec0e82e4a5515.js",
     "service-worker.js": "/React-Dummy-Movies/service-worker.js",
     "static/css/main.43da2b71.chunk.css.map": "/React-Dummy-Movies/static/css/main.43da2b71.chunk.css.map",
-    "static/js/2.8530df89.chunk.js.LICENSE.txt": "/React-Dummy-Movies/static/js/2.8530df89.chunk.js.LICENSE.txt"
+    "static/js/2.7fce011b.chunk.js.LICENSE.txt": "/React-Dummy-Movies/static/js/2.7fce011b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d21af798.js",
-    "static/js/2.8530df89.chunk.js",
+    "static/js/2.7fce011b.chunk.js",
     "static/css/main.43da2b71.chunk.css",
-    "static/js/main.99249cfe.chunk.js"
+    "static/js/main.229d2a75.chunk.js"
   ]
 }
